@@ -141,8 +141,8 @@ footer:
     - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
       # url:
-    - label: "GitHab"
-      icon: "fab fa-fw fa-githab"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "mailto:uceedp1@ucl.ac.uk"
     # - label: "Bitbucket"
     #   icon: "fab fa-fw fa-bitbucket"
