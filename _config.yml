@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Deng-1-Pan"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in""
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/deng-pan-1a5a42158"
 
 # Site Footer
@@ -148,7 +148,7 @@ footer:
     #   icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in""
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/deng-pan-1a5a42158"
 
 
