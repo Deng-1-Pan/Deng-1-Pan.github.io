@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Deng Pan"
   avatar           : "/assets/images/mypic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "MSc Student, Electronic and Electrical Engineering Department, University College London"
   location         : "London, UK"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:uceedp1@ucl.ac.uk"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/Deng-1-Pan"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in""
+      url: "https://www.linkedin.com/in/deng-pan-1a5a42158"
 
 # Site Footer
 footer:
@@ -141,15 +141,15 @@ footer:
     - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "GitHab"
+      icon: "fab fa-fw fa-githab"
+      url: "mailto:uceedp1@ucl.ac.uk"
     # - label: "Bitbucket"
     #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in""
+      url: "https://www.linkedin.com/in/deng-pan-1a5a42158"
 
 
 # Reading Files
