@@ -10,5 +10,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  # - title: "CV"
-  #   url: https://deng-1-pan.github.io/docs/_mydoc/Aymen_Kefi_s_CV.pdf
+  - title: "CV"
+    url: /about/Aymen_Kefi_s_CV.pdf
