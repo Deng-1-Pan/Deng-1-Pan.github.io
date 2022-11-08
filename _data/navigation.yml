@@ -8,5 +8,5 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "CV"
-  #   url: /Awesome_CV.pdf
+  - title: "CV"
+    url: /Awesome_CV.pdf
